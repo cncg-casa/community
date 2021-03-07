@@ -12,7 +12,7 @@
 ## How to contact us
 You can reach us on any of the social media above but also by email on cncg.casa@gmail.com
 
-# Previous events
+## Previous events
 - March 6/02/2021
   - Hello Community event, first live event.
   - Youtube [Recording](https://www.youtube.com/watch?v=85DnV1WnIe4)
