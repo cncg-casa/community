@@ -16,7 +16,7 @@ You can reach us on any of the social media above but also by email on cncg.casa
 - March 6/02/2021
   - Hello Community event, first live event.
   - Youtube [Recording](https://www.youtube.com/watch?v=85DnV1WnIe4)
-  - [Slides] https://docs.google.com/presentation/d/1JIG4zlNlvSaaIEBzqMU9AKiu69iSKzbBQMBrb3eg_lY/edit?usp=sharing
+  - Slides https://docs.google.com/presentation/d/1JIG4zlNlvSaaIEBzqMU9AKiu69iSKzbBQMBrb3eg_lY/edit?usp=sharing
   - Links:
     - Dockership deprecation [FAQ](https://kubernetes.io/blog/2020/12/02/dockershim-faq/)
     - Read more about Kubernetes Docker [deprecation](https://towardsdatascience.com/kubernetes-is-deprecating-docker-in-the-upcoming-release-2a03d607934a)
