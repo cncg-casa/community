@@ -24,3 +24,8 @@ You can reach us on any of the social media above but also by email on cncg.casa
 - March, 20 2021
   - KubeTane Talk Episode#1. Cloud Native Technologies Kesako.
   - Youtube [Recording](https://www.youtube.com/watch?v=rORSwRil9aw&t=520s)
+
+- April, 4 2021
+  - Tech Talk Episode#1. Microservices, what are they ?
+  - [Slides] https://docs.google.com/presentation/d/1Y3wRyoa0MYC8_zj5S_XFd2qef3rWXAd5CPjXRCdF6nw/edit?usp=sharing)
+  - Youtube [Recording](https://www.youtube.com/watch?v=vIygiVz-2tU)
